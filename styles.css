@@ -5,6 +5,7 @@ img {
 }
 
 body {
+    margin-top: 100px;
     background-color: #f3e5d8;
     min-height: 375px;
     font-size: 15px;
